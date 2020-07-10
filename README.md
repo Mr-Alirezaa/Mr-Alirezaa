@@ -6,9 +6,10 @@ Other than Apple platfroms related technologies, I'm learning server-side develo
 
 Currently working at __Map.ir__ as an iOS developer and a backend intern. I'm open to freelance and remote jobs!
 
+<!--
 ### Techs
 
-
+-->
 
 ### 📱 Contact Me!
 
