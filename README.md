@@ -14,9 +14,9 @@ Currently working at __Map.ir__ as an iOS developer and a backend intern. I'm op
 
 <div align="left">
 	<a href="https://www.linkedin.com/in/mralirezaa/">
-        <img src='LinkedIn.svg' alt='Via LinkedIn'>
+        <img src='https://raw.githubusercontent.com/Mr-Alirezaa/Mr-Alirezaa/master/LinkedIn.svg' alt='Via LinkedIn'>
     </a>
     <a href="https://twitter.com/MrAlirezaa">
-        <img src='Twitter.svg' alt='Via Twitter'>
+        <img src='https://raw.githubusercontent.com/Mr-Alirezaa/Mr-Alirezaa/master/Twitter.svg' alt='Via Twitter'>
     </a>
 </p>
